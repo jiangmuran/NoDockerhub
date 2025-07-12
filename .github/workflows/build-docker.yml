@@ -1,6 +1,6 @@
 name: Build Docker Image
 
-# 触发条件：每次 push 到 main 分支或推送标签
+# 触发条件：每次 push 到 main 分支
 on:
   push:
     branches:
